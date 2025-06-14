@@ -1,0 +1,13 @@
+Hey i am using this beacause i know how to exit from vim command can i
+ do it for you ok take this
+
+ Yo!! so i am telling you steps note it down 
+
+step 1: At bottom of Your terminal you will See that your File Name is showing and below it u can see something like this --INSERT--
+
+Step2 -  Then You first Neeed to click escape Key on Your top left corner of Keyboard 
+
+Step3-  after Pressing escape key you see insert Mode get off and you will be aable to write something in place of that 
+
+Step4: Then Type Colon using (shift +semicolon )  and type w to and then press ok to juust eit without saving it 
+
